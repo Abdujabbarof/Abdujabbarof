@@ -3,10 +3,10 @@
 <h2>👨‍💻 Web Projects:</h2>
 
 - <b>Full Stack Web App (React, Node.js, Redux Toolkit, React Quiery, i18n etc))</b>  
-  - [MMMM Solid.uz](https://nazarbekmakon.uz/) <b><i>(Equipments Market (E-Commerce))</i></b>
+  - [MMMM Solid.uz](https://www.mmmmsolid.uz/) <b><i>(Equipments Market (E-Commerce))</i></b>
 
 - <b>Real Estate Website (Next.js, Node.js telegram bot, Redux Toolkit, React Quiery, i18n and with Flatris integration etc.))</b>  
-  - [Nazarbekmakon.uz](https://www.mmmmsolid.uz/) <b><i>(Real Estate Website)</i></b>
+  - [Nazarbekmakon.uz](https://www.nazarbekmakon.uz/) <b><i>(Real Estate Website)</i></b>
 
 - <b>Real Estate Website (Next.js, Node.js telegram bot, Redux Toolkit, React Quiery, i18n and with Flatris integration etc.))</b>  
   - [Gulbahormakon.uz](https://gulbahormakon.uz/) <b><i>(Real Estate Website)</i></b>
