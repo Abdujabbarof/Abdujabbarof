@@ -1,39 +1,41 @@
-<h1>Hi, I'm Abdulloh! <br/><a href="https://github.com/joshmadakor1">Full-Stack Developer</a>
+<h1>Hi, I'm Abdulloh! <br/><a href="https://github.com/joshmadakor1">Full-Stack Developer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Web Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/abdujabbarof)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/abdujabbarof) <b><i>(Potentially NSFW)</b></i>
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/abdujabbarof)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/abdujabbarof)
-  - [Keylogger with Email Capability](https://github.com/abdujabbarof)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
+- <b>Full Stack Web App (React, Node.js, Redux Toolkit, React Quiery, i18n etc))</b>  
+  - [MMMM Solid.uz](https://nazarbekmakon.uz/) <b><i>(Equipments Market (E-Commerce))</i></b>
 
-<h2> 🤳 Connect with me:</h2>
+- <b>Real Estate Website (Next.js, Node.js telegram bot, Redux Toolkit, React Quiery, i18n and with Flatris integration etc.))</b>  
+  - [Nazarbekmakon.uz](https://www.mmmmsolid.uz/) <b><i>(Real Estate Website)</i></b>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- <b>Real Estate Website (Next.js, Node.js telegram bot, Redux Toolkit, React Quiery, i18n and with Flatris integration etc.))</b>  
+  - [Gulbahormakon.uz](https://gulbahormakon.uz/) <b><i>(Real Estate Website)</i></b>
 
-[youtube]: https://www.youtube.com/c/abdujabbarof
-[instagram]: https://www.instagram.com/_abdujabbarof_
-[linkedin]: [https://linkedin.com/in/abdujabbarof](https://www.linkedin.com/in/abdulloh-abdujabborov/)
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🛠️ Technologies & Skills:</h2>
 
-Here are some ideas to get you started:
+- **Programming Languages:** JavaScript, TypeScript, Python, Java, C, SwiftUI, Node.js  
+- **Front-End:** HTML5, CSS3, SASS, React.js, Next.js, Redux Toolkit, React Query, Tailwind CSS, Ant Design, MUI, FramerMotion etc.
+- **Back-End & Databases:** Node.js, MongoDB
+- **IOS Mobile Development:** SwiftUI, Swift Storyboard, UiKit, CoreML, AR
+- **Version Control:** Git, GitHub, GitLab  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Soft Skills:  
+- Responsible, patient, completing tasks on time, conducting sprints, writing clean code (DRY/SOLID)  
+- Excellent problem-solving skills, experience in responsive web design and interactive applications  
+
+### Experience:  
+- **Frontend Developer at Albison Group** – Developed interactive, responsive web apps with modern frameworks
+- **Frontend Mentor at EduStream learning center** – Guided students by providing insights into web development, problem-solving, and coding best practices  
+
+<h2>🤳 Connect with me:</h2>
+
+[<img align="left" alt="Abdulloh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
+[<img align="left" alt="Abdulloh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="Abdulloh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
+
+<br/>
+
+[youtube]: https://www.youtube.com/@abdujabbarof
+[instagram]: https://www.instagram.com/_abdujabbarof_  
+[linkedin]: https://www.linkedin.com/in/abdulloh-abdujabborov/
