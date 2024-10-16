@@ -21,7 +21,7 @@
 
 [youtube]: https://www.youtube.com/c/abdujabbarof
 [instagram]: https://www.instagram.com/_abdujabbarof_
-[linkedin]: https://linkedin.com/in/abdujabbarof
+[linkedin]: [https://linkedin.com/in/abdujabbarof](https://www.linkedin.com/in/abdulloh-abdujabborov/)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
